@@ -1,3 +1,0 @@
-PULL pour mettre a jour
-
-PUSH pour envoyer
